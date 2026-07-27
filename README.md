@@ -14,7 +14,7 @@
 - Studying Systems Analysis and Development (6th semester) at UMJ
 - ITIL 4 Foundation certified
 - Building N1-TOOLKIT, a Chrome extension that automates GLPI ticket workflows
-- Interested in automation, fullstack development and internal tooling
+- Fullstack development, interested in automation and internal tooling
 - Based in Maceio, Alagoas, Brazil
 
 <br>
