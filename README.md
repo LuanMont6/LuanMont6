@@ -10,7 +10,7 @@
 
 ## About
 
-- IT Analyst at Unimed Maceio, working on N1 support, BI reporting and SQL over the Tasy healthcare system
+- System Analyst at Unimed Maceio, working on N1 support, BI reporting and SQL over the Tasy healthcare system
 - Studying Systems Analysis and Development (6th semester) at UMJ
 - ITIL 4 Foundation certified
 - Building N1-TOOLKIT, a Chrome extension that automates GLPI ticket workflows
