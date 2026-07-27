@@ -56,7 +56,7 @@
 <div align="center">
 
 <a href="https://github.com/LuanMont6" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" /></a>
+<a href="https://www.linkedin.com/in/luan-monteiro-42628630a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" /></a>
 <a href="https://YOUR-PORTFOLIO-HERE.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-B537F2?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </div>
