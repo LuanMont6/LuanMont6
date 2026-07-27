@@ -55,10 +55,10 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+<a href="https://www.linkedin.com/in/luan-monteiro-42628630a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://SEU-PORTFOLIO-AQUI.com" target="_blank">
+<a href="https://luanmont6.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-B537F2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://github.com/LuanMont6" target="_blank">
