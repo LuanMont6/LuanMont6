@@ -1,25 +1,25 @@
 <div align="center">
 
-# Olá, eu sou o Luan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:b537f2&height=200&section=header&text=Luan%20Monteiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<a href="https://github.com/LuanMont6">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B537F2&center=true&vCenter=true&width=600&lines=Analista+de+TI+%40+Unimed+Macei%C3%B3;Estudante+de+ADS;Dev+Front-end+%26+Automa%C3%A7%C3%A3o;Criador+do+N1-TOOLKIT+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B537F2&center=true&vCenter=true&width=520&lines=IT+Analyst+%40+Unimed+Maceio;ADS+Student;Creator+of+N1-TOOLKIT" />
 
 </div>
 
-### 🧑‍💻 Sobre mim
+<br>
 
-- 🏥 Analista de TI na **Unimed Maceió**, atuando com suporte N1, BI e SQL sobre o sistema **Tasy**
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (6º período) — UMJ
-- 📜 Certificado **ITIL 4 Foundation**
-- 🛠️ Construindo o **N1-TOOLKIT**, uma extensão Chrome que automatiza fluxos de atendimento no GLPI
-- 💡 Interesses: automação, desenvolvimento fullstack e ferramentas internas que facilitam a rotina de quem trabalha em TI
-- 📍 Maceió, Alagoas - Brasil
+## About
+
+- IT Analyst at Unimed Maceio, working on N1 support, BI reporting and SQL over the Tasy healthcare system
+- Studying Systems Analysis and Development (6th semester) at UMJ
+- ITIL 4 Foundation certified
+- Building N1-TOOLKIT, a Chrome extension that automates GLPI ticket workflows
+- Interested in automation, fullstack development and internal tooling
+- Based in Maceio, Alagoas, Brazil
 
 <br>
 
-### 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -27,50 +27,38 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Tasy-6C3AC6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/GLPI-FF7900?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Chrome_Extension-B537F2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Tasy-6C3AC6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/GLPI-FF7900?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_Extension-B537F2?style=flat-square&logo=googlechrome&logoColor=white" />
 
 </div>
 
 <br>
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuanMont6&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LuanMont6&show_icons=true&theme=radical&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMont6&layout=compact&theme=radical&hide_border=true" width="40%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanMont6&theme=radical&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=LuanMont6&theme=radical&hide_border=true" width="60%" />
 
 </div>
 
 <br>
 
-### 🌐 Conecte-se comigo
+## Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/luan-monteiro-42628630a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://luanmont6.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-B537F2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/LuanMont6" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/LuanMont6" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" /></a>
+<a href="https://YOUR-PORTFOLIO-HERE.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-B537F2?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuanMont6&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
@@ -78,3 +66,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/LuanMont6/LuanMont6/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b537f2,100:1a1a2e&height=100&section=footer" />
